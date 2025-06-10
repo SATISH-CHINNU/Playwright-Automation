@@ -1,2 +1,0 @@
-# Playwright-Automation
-Web automation
